@@ -13,6 +13,11 @@
 			<version>1.1.1.GA</version>
 		</dependency>
 		<dependency>
+			<groupId>org.picketlink.idm</groupId>
+			<artifactId>picketlink-idm-auth</artifactId>
+			<version>1.1.1.GA</version>
+		</dependency>
+		<dependency>
 			<groupId>javax</groupId>
 			<artifactId>javaee-api</artifactId>
 			<version>6.0</version>
